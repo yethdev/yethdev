@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yethdev/yethdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yeth
 
-Here are some ideas to get you started:
+### Full-stack developer focused on automation, cybersecurity, AI, and modding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,rust,java,cpp,git,cloudfalre" />
+</p>
+
+### Current interests
+
+- Building full-stack web apps
+- Exploring cybersecurity and privacy-focused systems
+- Working with proxy infrastructure
+- Learning deeper backend and systems concepts
+- Modding video games such as Subnautica
+- Using reinforcement learning to train AI
