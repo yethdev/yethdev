@@ -11,7 +11,7 @@
 ### What I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,rust,ts,java,cpp,git,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,rust,ts,java,cpp,lua,git,cloudflare" />
 </p>
 
 ### Current interests
